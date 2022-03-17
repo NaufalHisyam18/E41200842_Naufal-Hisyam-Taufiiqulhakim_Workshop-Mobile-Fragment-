@@ -1,0 +1,20 @@
+.main-body {
+    text-align: center;
+    display: flex;
+    padding: 350px 350px 350px 350px;
+    background-color: #DFBCA8;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    padding-right: 100px;
+}
+
+.body {
+    display: flex;
+    background-color: #EFDDC8;
+    height: 550px;
+    width: 60%;
+    border-radius: 18px;
+    padding: 100px 100px 100px 100px;
+    margin-left: 450px;
+    padding-right: 30px;
+}
